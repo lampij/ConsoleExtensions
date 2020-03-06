@@ -1,0 +1,8 @@
+/home/benjamin/Projects/ConsoleEx/ConsoleExtensions/ConsoleExtension.lib/bin/Debug/netstandard2.0/ConsoleExtension.lib.deps.json
+/home/benjamin/Projects/ConsoleEx/ConsoleExtensions/ConsoleExtension.lib/bin/Debug/netstandard2.0/ConsoleExtension.lib.dll
+/home/benjamin/Projects/ConsoleEx/ConsoleExtensions/ConsoleExtension.lib/bin/Debug/netstandard2.0/ConsoleExtension.lib.pdb
+/home/benjamin/Projects/ConsoleEx/ConsoleExtensions/ConsoleExtension.lib/obj/Debug/netstandard2.0/ConsoleExtension.lib.csprojAssemblyReference.cache
+/home/benjamin/Projects/ConsoleEx/ConsoleExtensions/ConsoleExtension.lib/obj/Debug/netstandard2.0/ConsoleExtension.lib.AssemblyInfoInputs.cache
+/home/benjamin/Projects/ConsoleEx/ConsoleExtensions/ConsoleExtension.lib/obj/Debug/netstandard2.0/ConsoleExtension.lib.AssemblyInfo.cs
+/home/benjamin/Projects/ConsoleEx/ConsoleExtensions/ConsoleExtension.lib/obj/Debug/netstandard2.0/ConsoleExtension.lib.dll
+/home/benjamin/Projects/ConsoleEx/ConsoleExtensions/ConsoleExtension.lib/obj/Debug/netstandard2.0/ConsoleExtension.lib.pdb
